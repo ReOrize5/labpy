@@ -1,8 +1,5 @@
-#Latihan 2
-
-Nama : Fabian Eka Prasetyo
-
-Kelas : TI.22.A3
-
-NIM : 312210301
-
+a = 8
+b = 6
+print("variable a = ",a)
+print("variable b = ",b)
+print("hasil penjumlahan a+b = ",a+b)
